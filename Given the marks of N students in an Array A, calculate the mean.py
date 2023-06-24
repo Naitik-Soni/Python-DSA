@@ -1,5 +1,5 @@
 '''
----Given the marks of N students in an Array A, calculate the mean---
+Problem: Given the marks of N students in an Array A, calculate the mean
 Input:
 N = 4 
 A = { 56 , 67 , 30 , 79 }
