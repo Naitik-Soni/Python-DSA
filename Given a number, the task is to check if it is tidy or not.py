@@ -17,7 +17,7 @@ No
 Explanation:
 Digits “4” and “3” violate the property.
 '''
-n = 1353
+n = int(input())
 a = n
 tidy = 1
 
