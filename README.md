@@ -10,4 +10,4 @@ DSA and Interview Problems Solving using python
 <a href="https://github.com/Naitik-Soni/Python-DSA/blob/main/Check%20if%20the%20number%20is%20a%20Harshad(or%20Niven)%20number%20or%20not.py">5. Check if the number is a Harshad(or Niven) number or not.</a><br>
 <a href="https://github.com/Naitik-Soni/Python-DSA/blob/main/Write%20a%20program%20to%20sort%20characters%20(numbers%20and%20punctuation%20symbols%20are%20not%20included)%20in%20a%20given%20string.py">6. Write a program to sort characters (numbers and punctuation symbols are not included) in a given string.</a><br>
 <a href='https://github.com/Naitik-Soni/Python-DSA/blob/main/Check%20keyword%20of%20language.py'>7. Check keyword of a particular language.(Python language)</a><br>
-<a hreaf="https://github.com/Naitik-Soni/Python-DSA/blob/main/Given%20a%20number%2C%20the%20task%20is%20to%20check%20if%20it%20is%20tidy%20or%20not.py">8. Given a number, the task is to check if it is tidy or not.</a>
+<a href="https://github.com/Naitik-Soni/Python-DSA/blob/main/Given%20a%20number%2C%20the%20task%20is%20to%20check%20if%20it%20is%20tidy%20or%20not.py">8. Given a number, the task is to check if it is tidy or not.</a>
