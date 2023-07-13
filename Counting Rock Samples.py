@@ -4,11 +4,11 @@ Given an array samples[] denoting sizes of rock samples and a 2D array ranges[],
 the range ranges[i][0] to ranges[i][1], for every possible 1 <= i <= N.
 
 Input:
-samples[] = {345, 604, 321, 433, 704, 470, 808, 718, 517, 811}
-ranges[] = {
-  {300, 380},
-  {400, 700}
-}
+samples[] = [345, 604, 321, 433, 704, 470, 808, 718, 517, 811]
+ranges[] = [
+  [300, 380],
+  [400, 700]
+]
 
 Output:
 2 4
