@@ -13,4 +13,4 @@ DSA and Interview Problems Solving using python
 <a href="https://github.com/Naitik-Soni/Python-DSA/blob/main/Given%20a%20number%2C%20the%20task%20is%20to%20check%20if%20it%20is%20tidy%20or%20not.py">8. Given a number, the task is to check if it is tidy or not.</a><br>
 <a href="https://github.com/Naitik-Soni/Python-DSA/blob/main/Reverse%20The%20Array.py">9. Reverse the Array.</a><br>
 <a href="https://github.com/Naitik-Soni/Python-DSA/blob/main/Counting%20Rock%20Samples.py">10. Counting Rock Samples.</a><br>
-<a href="">11. </a>
+<a href="https://github.com/Naitik-Soni/Python-DSA/blob/main/Find%20index%20number%20in%20rotated%20list.py">11. Find index of number in rotated list.</a>
