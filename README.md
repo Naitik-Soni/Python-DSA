@@ -14,4 +14,4 @@ DSA and Interview Problems Solving using python
 <a href="https://github.com/Naitik-Soni/Python-DSA/blob/main/Reverse%20The%20Array.py">9. Reverse the Array.</a><br>
 <a href="https://github.com/Naitik-Soni/Python-DSA/blob/main/Counting%20Rock%20Samples.py">10. Counting Rock Samples.</a><br>
 <a href="https://github.com/Naitik-Soni/Python-DSA/blob/main/Find%20index%20number%20in%20rotated%20list.py">11. Find index of number in rotated list.</a><br>
-<a href="https://github.com/Naitik-Soni/Python-DSA/blob/main/Reverse%20array%20in%20groups.py">12. Reverse array in group</a>
+<a href="https://github.com/Naitik-Soni/Python-DSA/blob/main/Reverse%20array%20in%20groups.py">12. Reverse array in groups.</a>
